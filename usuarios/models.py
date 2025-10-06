@@ -1,6 +1,9 @@
 from django.db import models
 
 
+#user: wellington
+#senha: Well2020@
+#email: wellingtonlariuxi@gmail.com
 
 
 
